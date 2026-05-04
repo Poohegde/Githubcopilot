@@ -1,0 +1,24 @@
+# Maven build outputs
+/target/
+
+# Eclipse / IntelliJ / VS Code
+*.iml
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Generated test reports
+/surefire-reports/
+
+# Temporary files
+*.tmp
+*.temp
