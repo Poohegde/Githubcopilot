@@ -1,7 +1,0 @@
-utils\RestAssuredUtils.class
-config\DatabaseConfig.class
-pages\LoginPage.class
-utils\DriverFactory.class
-pages\HomePage.class
-utils\DatabaseUtils.class
-pages\RegistrationPage.class
