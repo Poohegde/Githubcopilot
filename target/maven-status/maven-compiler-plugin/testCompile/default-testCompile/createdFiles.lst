@@ -1,0 +1,4 @@
+tests\DatabaseTests.class
+tests\UiTests.class
+tests\ApiTests.class
+tests\TestRunner.class
